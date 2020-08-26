@@ -1,0 +1,8 @@
+# Ignore everything in the root except the items below.
+/*
+!sendgrid-integration.php
+!class-sendgrid-emails.php
+!class-analog-log.php
+!class-sendgrid-listener.php
+!.gitignore
+!composer.json
